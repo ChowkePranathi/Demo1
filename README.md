@@ -1,5 +1,5 @@
 # Demo1
 <br>
-Author-Pranathi Chowke
+Author-Pranathi 
 <br>
 Welcome to git and github
